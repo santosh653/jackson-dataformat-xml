@@ -1,3 +1,17 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : jackson-dataformat-xml
+# Source Repo         : https://github.com/FasterXML/jackson-dataformat-xml.git
+# Travis Job Link     : 
+# Created travis.yml  : No
+# Maintainer          : Santosh Kulkarni <santoshkulkarni70@gmail.com>
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+arch:
+  - amd64
+  - ppc64le
 language: java
 
 jdk:
