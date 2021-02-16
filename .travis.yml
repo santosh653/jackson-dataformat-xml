@@ -15,7 +15,6 @@ arch:
 language: java
 
 jdk:
-  - openjdk8
   - openjdk11
 
 # Below this line is configuration for deploying to the Sonatype OSS repo
